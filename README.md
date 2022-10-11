@@ -2,10 +2,15 @@
 
 I ❤️ Linux and FOSS.
 
+
 ## 1. Reach me:
    - Email - simon.05hofer@gmail.com
    - Discord - SimSon#2990
-
-<hr>
+   - 
 
 ## Programming Languages:
+   - C#
+   - HTML/CSS
+
+## OS
+   - Fedora
