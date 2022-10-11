@@ -2,7 +2,9 @@
 
 <hr>
 
-I’m interested in Programming, Linux, FOSS and in general everything that has to do with IT
+I ❤️ Linux and FOSS.
+
+
 
 
 How to reach me on: Email - simon.05hofer@gmail.com or Discord - SimSon#2990
