@@ -1,5 +1,6 @@
-Hi there, I’m Simon Hofer
+#Hi there, I’m Simon ![](https://user-images.githubusercontent.com/18350557176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+<hr>
 
 I’m interested in Programming, Linux, FOSS and in general everything that has to do with IT
 
