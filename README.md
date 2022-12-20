@@ -11,5 +11,12 @@ I ❤️ Linux and FOSS.
    - C#
    - HTML/CSS
 
+## Favourite Programmes
+   - Brave Browser
+   - Bitwarden
+   - Mailspring
+   - Nextcloud / BorgBase
+   - LibreOffice
+
 ## OS
    - Fedora
