@@ -3,7 +3,7 @@
 I ❤️ Linux and FOSS.
 
 
-## 1. Reach me:
+## Reach me:
    - Email - simon.05hofer@gmail.com
    - Discord - SimSon#2990
 
