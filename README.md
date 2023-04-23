@@ -15,8 +15,8 @@ I ❤️ Linux and FOSS.
    - Brave Browser
    - Bitwarden
    - Mailspring
-   - Nextcloud / BorgBase
-   - LibreOffice / Notepad++
+   - Nextcloud
+   - LibreOffice
 
 ## OS
    - Fedora
