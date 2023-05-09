@@ -12,11 +12,11 @@ I ❤️ Linux and FOSS.
    - HTML/CSS
 
 ## Favourite Programmes
-   - Brave Browser
-   - Bitwarden
-   - Mailspring
-   - Nextcloud
-   - LibreOffice
+   - Browser - Brave
+   - Password Manager - Bitwarden
+   - Mail - Mailspring
+   - Cloud - Nextcloud
+   - Office - LibreOffice
 
 ## OS
    - Fedora
