@@ -4,17 +4,17 @@ I ❤️ Linux and FOSS.
 
 
 ## Reach me:
-   - Email - simon.05hofer@gmail.com
-   - Discord - SimSon#2990
+   - Email - simon@hofer.tech
+   - Discord - notsimson
 
 ## Programming Languages:
    - C#
    - HTML/CSS
 
 ## Favourite Programmes
-   - Browser - Brave
+   - Browser - Librewold
    - Password Manager - Bitwarden
-   - Mail - Mailspring
+   - Mail - Tutanota
    - Cloud - Nextcloud
    - Office - LibreOffice
 
