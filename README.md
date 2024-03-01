@@ -12,7 +12,7 @@ I ❤️ Linux and FOSS.
    - HTML/CSS
 
 ## Favourite Programmes
-   - Browser - Librewold
+   - Browser - LibreWolf
    - Password Manager - Bitwarden
    - Mail - Tutanota
    - Cloud - Nextcloud
