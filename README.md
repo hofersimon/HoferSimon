@@ -12,11 +12,11 @@ I ❤️ Linux and FOSS.
    - HTML/CSS
 
 ## Favourite Programmes
-   - Browser - LibreWolf
+   - Browser - Zen
    - Password Manager - Bitwarden
    - Mail - Tutanota
    - Cloud - Nextcloud
-   - Office - LibreOffice
+   - Office - OnlyOffice
 
 ## OS
-   - Fedora
+   - PopOS
