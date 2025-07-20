@@ -15,7 +15,7 @@ I ❤️ Linux and FOSS.
    - Mail: Proton Mail / Tutanota
    - Password Manager: Proton Pass / Bitwarden
    - VPN: Proton VPN / Mullvad
-   - Cloud:Nextcloud / Proton Drive / Tresorit / Filen / Ente
+   - Cloud: Nextcloud / Proton Drive / Tresorit / Filen / Ente
 
 ## OS
    - PopOS
