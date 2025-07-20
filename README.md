@@ -4,19 +4,18 @@ I ❤️ Linux and FOSS.
 
 
 ## Reach me:
-   - Email - simon@hofer.tech
-   - Discord - notsimson
+   - Email: simon@hofer.tech
 
 ## Programming Languages:
    - C#
    - HTML/CSS
 
 ## Favourite Programmes
-   - Browser - Zen
-   - Password Manager - Bitwarden
-   - Mail - Tutanota
-   - Cloud - Nextcloud
-   - Office - OnlyOffice
+   - Browser: Zen / Brave
+   - Mail: Proton Mail / Tutanota
+   - Password Manager: Proton Pass / Bitwarden
+   - VPN: Proton VPN / Mullvad
+   - Cloud:Nextcloud / Proton Drive / Tresorit / Filen / Ente
 
 ## OS
    - PopOS
